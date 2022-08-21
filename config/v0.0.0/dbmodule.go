@@ -1,4 +1,4 @@
-package dbmodule
+package config
 
 import "fmt"
 
